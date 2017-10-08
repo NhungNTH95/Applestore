@@ -19,7 +19,7 @@
 }
 
 #iphone {
-    margin-top: 5px;
+    margin-top: 10px;
     background-color: #edece9;
 }
 .prd-type {
@@ -31,63 +31,22 @@
 }
 .slogan {
     width: 100%;
-    font-size: 21px;
-}
-.prd {
-    margin-top: 40px;
-}
-.wrap-item-prd a img {
-    width: 100%;
-    transition: all 1s ease;
-    opacity: 0.7;
+    font-size: 22px;
 }
 .margin-lr {
-    margin-bottom: 5px;
-}
-.wrap-item-prd a img:hover {
-    transform: scale(1.2,1.2);
-    opacity: 1;
-    box-shadow:0px 0px 30px gray;
-}
-.name-prd {
-    height: 45px;
-    color: #3e3e3e;
-    font-weight: 600;
-    line-height: 45px;
-    margin-top: 5px;
-    background-color: #fff;
+    margin: 0 5px 5px;
 }
 #ipad {
-    padding-bottom: 50px;
     background-color: #edece9;
 }
 #iphone div div>div.col-md-3, #ipad div div>div.col-md-3 {
-    padding-left: 3px; 
-    padding-right: 3px; 
+    padding-left: 4px; 
+    padding-right: 4px; 
 }
-#mac {
-    position: relative;
-    margin: 10px 0;
-}
-#mac:hover div{
-    background-color: #000;
-    opacity: 0.7;
-    transition: 1s, 3s;
-}
-#mac img {
+#iphone .prd img {
     width: 100%;
 }
-#mac div {
-    position: absolute;
-    top: 35%;
-    color: #fff;
-    font-size: 62px;
-    padding: 0 100px;
-    letter-spacing: 10px;
-}
-#mac div span {
-    font-size: 40px;
-}
+
 .colorblack-title{
     color: #111;   
 }
@@ -130,8 +89,4 @@
 width: 60px;
 padding-top: 15px;
 height: 60px;
-}
-footer {
-    background-color: #000;
-    padding-top: 5px;
 }

@@ -1,0 +1,11 @@
+@media screen and (min-width: ) and (max-width: 1038px) {
+	#mac div {
+	    top: 0 ;
+	    color: #fff;
+	    font-size: 40px;
+	    padding: 0 50px;
+	}
+	#mac div span {
+	    font-size: 20px;
+	}
+}
